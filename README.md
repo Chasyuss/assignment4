@@ -1,7 +1,10 @@
-# 과제 시작 절차
+## assignment 4
 
-## 1. Fork 버튼 누른 뒤 "Copy the ex1 branch only" 체크박스 해제하세요. (그래야 모든 브랜치 복사가 가능합니다.)
+### 📢 과제 현황
+**branch ex1** : 완료✔️
 
-## 2. 본인 레포지토리로 Fork 가 잘 되었다면, 본인 레포지토리에서 클론받으세요.
 
-## 3. 과제 수행 후 각 브랜치별로 push 한 뒤 github url 제출
+**branch ex2** : 완료 ✔️
+
+
+**branch ex3** : 완료✔️
